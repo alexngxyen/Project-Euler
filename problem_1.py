@@ -11,7 +11,7 @@ multiple_one = 3
 multiple_two = 5
 
 while (count < value):
-    if count % 3 == 0 or count % 5 == 0:
+    if count % multiple_one == 0 or count % multiple_two == 0:
         sum += count
 
     # Update Counter
