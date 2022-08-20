@@ -1,5 +1,3 @@
-import math
-
 # Initalize Parameters
 value        = 1000                                 # Value of Interest
 count        = 1                                    # Number of Iterations
