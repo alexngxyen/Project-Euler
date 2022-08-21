@@ -1,7 +1,8 @@
-import time
+# Import Packages
+import timeit
 
 # Start Timer
-start = time.time()
+start = timeit.default_timer()
 
 # Initalize Parameters
 value        = 1000                                 # Value of Interest
@@ -17,8 +18,9 @@ while (count < value):
     # Update Counter
     count += 1
 
-print(sum)
-
 # End Timer
-end = time.time()
+end = timeit.default_timer()
+
+# Print Results
+print("Sum of all the multiples of", multiple_one, "or", multiple_two, "below", value, "=", sum)
 print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
