@@ -1,0 +1,34 @@
+# Import Packages
+import timeit
+
+# Start Timer
+start = timeit.default_timer()
+
+# Function to Determine Prime Factors
+def determine_prime_factors(number):
+    """ This function determines the prime factors of a given number. """
+    # Initialize Parameters
+    prime_factors = []
+    count         = 1
+    divisor       = 2
+    
+    while count < number:
+        if number % divisor == 0:
+            prime_factors.append(divisor)
+            number = number / divisor
+            count  = 1
+        else:
+            count   += 1
+            divisor += 1
+    
+    return prime_factors
+
+# Initialize Parameters
+value = 600851475143                              # Value of Interest
+
+# End Timer
+end = timeit.default_timer()
+
+# Print Results
+print("Largest prime factor of the number", value,  "=", max(determine_prime_factors(value)))
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
