@@ -10,8 +10,8 @@ i_range         = 10**digits                          # One Range of Values
 j_range         = i_range                             # Another Range of Values
 palindrome_list = []                                  # List to Store Palindromes
 
-for i in range(i_range + 1):
-    for j in range(j_range + 1):
+for i in range(i_range // 10, i_range):
+    for j in range(j_range // 10, j_range):
         # Multiply i and j Together
         product = i * j
 
