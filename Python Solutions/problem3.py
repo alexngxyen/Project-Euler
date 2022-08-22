@@ -5,7 +5,7 @@ import timeit
 start = timeit.default_timer()
 
 # Function to Determine Prime Factors
-def determine_prime_factors(number):
+def determinePrimeFactors(number):
     """ This function determines the prime factors of a given number. """
     # Initialize Parameters
     prime_factors = []
