@@ -1,3 +1,11 @@
+# ============================================================================
+#  Name        : problem2.py
+#  Description : Finds the sum of the even-valued fibonacci sequence terms whose
+#                values do not exceed four million.
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 

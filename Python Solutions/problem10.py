@@ -1,3 +1,10 @@
+# ============================================================================
+#  Name        : problem10.py
+#  Description : Finds the sum of all primes below two million.  
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 import math

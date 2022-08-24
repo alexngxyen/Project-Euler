@@ -1,3 +1,12 @@
+# ============================================================================
+#  Name        : problem9.py
+#  Description : Finds the pythagorean triplet (a set of three natural numbers 
+#                a < b < c for which a**2 + b**2 = c**2) for which a + b + c = 
+#                1000.
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 

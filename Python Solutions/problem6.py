@@ -1,3 +1,11 @@
+# ============================================================================
+#  Name        : problem6.py
+#  Description : Finds the difference between the sum of the squares of the first
+#                one hundred natural numbers and the square of the sum.
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 import numpy as np

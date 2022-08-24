@@ -1,3 +1,11 @@
+# ============================================================================
+#  Name        : problem8.py
+#  Description : Finds the thirteen adjacent digits in the 1000-digit number that
+#                have the greatest product.
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 

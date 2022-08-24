@@ -1,3 +1,11 @@
+# ============================================================================
+#  Name        : problem4.py
+#  Description : Finds the largest palindrome made from the product of two 
+#                3-digit numbers.  
+#  Author      : Alex Nguyen
+#  Date        : August 2022
+#  ============================================================================
+
 # Import Packages
 import timeit
 
