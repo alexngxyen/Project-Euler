@@ -1,4 +1,4 @@
-# ============================================================================
+#  ============================================================================
 #  Name        : problem8.py
 #  Description : Finds the thirteen adjacent digits in the 1000-digit number that
 #                have the greatest product.
