@@ -26,5 +26,5 @@ square_of_sum = np.square(np.sum(np.arange(1, value + 1)))
 end = timeit.default_timer()
 
 # Print Results
-print("Difference between the sum of the squares and the square of the sum for", value, " natural numbers =", square_of_sum - sum_of_square)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nDifference between the sum of the squares and the square of the sum for", value, " natural numbers =", square_of_sum - sum_of_square)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

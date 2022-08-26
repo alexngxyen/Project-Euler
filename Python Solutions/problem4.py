@@ -34,5 +34,5 @@ for i in range(i_range // 10, i_range):
 end = timeit.default_timer()
 
 # Print Results
-print("Largest palindrome made from the product of two", digits, "digit numbers =", max(palindrome_list))
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nLargest palindrome made from the product of two", digits, "digit numbers =", max(palindrome_list))
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

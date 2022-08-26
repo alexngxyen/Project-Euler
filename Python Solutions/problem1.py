@@ -29,5 +29,5 @@ while (count < value):
 end = timeit.default_timer()
 
 # Print Results
-print("Sum of all the multiples of", multiple_one, "or", multiple_two, "below", value, "=", sum)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nSum of all the multiples of", multiple_one, "or", multiple_two, "below", value, "=", sum)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

@@ -36,5 +36,5 @@ while fibonacci_number_one < value or fibonacci_number_two < value:
 end = timeit.default_timer()
 
 # Print Results
-print("Sum of all the even-valued fibonacci terms =", sum_one + sum_two)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nSum of all the even-valued fibonacci terms =", sum_one + sum_two)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

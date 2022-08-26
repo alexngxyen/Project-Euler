@@ -41,5 +41,5 @@ sum_of_primes = sum(prime_numbers[1:])
 end = timeit.default_timer()
 
 # Print Results
-print("Sum of all prime numbers below", value, "=", sum_of_primes)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nSum of all prime numbers below", value, "=", sum_of_primes)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

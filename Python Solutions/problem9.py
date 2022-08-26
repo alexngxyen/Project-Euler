@@ -34,5 +34,5 @@ for a in range(1, value):
 end = timeit.default_timer()
 
 # Print Results
-print("Pythagorean triplet values are", a_triplet, ",", b_triplet, ",", c_triplet, "with the product =", triplet_product)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nPythagorean triplet values are", a_triplet, ",", b_triplet, ",", c_triplet, "with the product =", triplet_product)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

@@ -37,5 +37,5 @@ value = 600851475143                              # Value of Interest
 end = timeit.default_timer()
 
 # Print Results
-print("Largest prime factor of the number", value,  "=", max(determine_prime_factors(value)))
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nLargest prime factor of the number", value,  "=", max(determinePrimeFactors(value)))
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

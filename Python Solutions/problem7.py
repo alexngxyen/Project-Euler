@@ -37,5 +37,5 @@ while len(prime_numbers) < number_of_primes + 1:
 end = timeit.default_timer()
 
 # Print Results
-print(number_of_primes, "prime number =", prime_numbers[-1])
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\n", number_of_primes, "prime number =", prime_numbers[-1])
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

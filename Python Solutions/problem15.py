@@ -25,5 +25,5 @@ number_of_routes = math.factorial(n) // (math.factorial(k) * math.factorial(n - 
 end = timeit.default_timer()
 
 # Print Results
-print("Number of routes from top left corner to bottom right corner in a", grid_size, "x", grid_size, "=", number_of_routes)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nNumber of routes from top left corner to bottom right corner in a", grid_size, "x", grid_size, "=", number_of_routes)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")

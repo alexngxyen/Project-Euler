@@ -49,5 +49,5 @@ greatest_product = greatestProductOfAdjacentDigits(one_thousand_digit_number, ad
 end = timeit.default_timer()
 
 # Print Results
-print("The", adjacent_digits, "adjacent digits in the 1000-digit number which have the greatest product =", greatest_product)
-print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds")
+print("\nThe", adjacent_digits, "adjacent digits in the 1000-digit number which have the greatest product =", greatest_product)
+print("Elapsed time =", str.format('{0:.15f}',end - start), "seconds\n")
