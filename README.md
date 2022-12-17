@@ -1,2 +1,2 @@
 # Project-Euler
-This repository will contain my Python scripts used to solve various [Project Euler](https://projecteuler.net/about) problems. 
+This repository will contain my generated Python scripts utilized to solve various [Project Euler](https://projecteuler.net/about) problems. Please notes, this code is not optimized for efficiency (at least not yet!). 
