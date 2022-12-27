@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem3.py
+#  Name        : problem_3.py
 #  Description : Finds the largest prime factor of the number 600851475143.  
 #  Author      : Alex Nguyen
 #  Date        : August 2022

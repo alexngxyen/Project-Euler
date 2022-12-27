@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem5.py
+#  Name        : problem_5.py
 #  Description : Finds the smallest positive number that is evenly divisible by 
 #                all the numbers from 1 to 20.
 #  Author      : Alex Nguyen

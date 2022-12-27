@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem10.py
+#  Name        : problem_10.py
 #  Description : Finds the sum of all primes below two million.  
 #  Author      : Alex Nguyen
 #  Date        : August 2022

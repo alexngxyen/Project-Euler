@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem20.py
+#  Name        : problem_20.py
 #  Description : Find the sum of the digits in the number 100! (100 factorial)
 #  Author      : Alex Nguyen
 #  Date        : August 2022

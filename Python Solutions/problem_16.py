@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem16.py
+#  Name        : problem_16.py
 #  Description : Find a starting number under one million which produces the 
 #                longest Collatz sequence.
 #  Author      : Alex Nguyen

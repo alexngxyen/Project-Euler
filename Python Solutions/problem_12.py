@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem12.py
+#  Name        : problem_12.py
 #  Description : Finds the value of the first triangle number to have over five 
 #                hundred divisors.
 #  Author      : Alex Nguyen

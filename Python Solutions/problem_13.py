@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem13.py
+#  Name        : problem_13.py
 #  Description : Finds the first ten digits of the sum of the following one-
 #                hundred 50-digit numbers.
 #  Author      : Alex Nguyen

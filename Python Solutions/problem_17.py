@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem17.py
+#  Name        : problem_17.py
 #  Description : Find the number of letters used to write out the numbers from 
 #                1 to 1000.
 #  Author      : Alex Nguyen

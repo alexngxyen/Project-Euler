@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem11.py
+#  Name        : problem_11.py
 #  Description : Finds the greatest product of four adjacent numbers in the same 
 #                direction (up, down, left, right, or diagonally) in a 20 x 20
 #                grid.  

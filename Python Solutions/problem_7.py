@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem7.py
+#  Name        : problem_7.py
 #  Description : Finds the 1001st prime number.  
 #  Author      : Alex Nguyen
 #  Date        : August 2022

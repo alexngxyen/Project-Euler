@@ -1,5 +1,5 @@
 #  ============================================================================
-#  Name        : problem15.py
+#  Name        : problem_15.py
 #  Description : Finds the number of routes to move from the top left corner to 
 #                the bottom right corner of a 20 x 20 grid.  
 #  Author      : Alex Nguyen
