@@ -40,7 +40,7 @@ for a in range(a_max):
         # Largest Digital Sum?
         if digital_sum > max_sum:
             # Save 
-            max_sum = digital_sum  
+            max_sum   = digital_sum  
             a_max_sum = a
             b_max_sum = b      
     
